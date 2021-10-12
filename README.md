@@ -1,4 +1,5 @@
 # settings
 
-vscode : cmake 설치
+vscode : cmake & tools 설치
 vim : brew install cmake
+cmd + shift + p : CMake: Configure : clang선택
